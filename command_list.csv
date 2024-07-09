@@ -1,0 +1,249 @@
+    1  mang
+    2  help
+    3  man ls
+    4  help
+    5  clear
+    6  ls
+    7  clear
+    8  ls
+    9  cd
+   10  clear
+   11  cd
+   12  pwd
+   13  clrear
+   14  clear
+   15  ls
+   16  cd Desktop
+   17  clear
+   18  ls
+   19  % cd Desktop
+   20  clear
+   21  ls
+   22  % cd OPERATORS
+   23  clear
+   24  ls
+   25  cd OPERATORS
+   26  clear
+   27  ls
+   28  clear
+   29  ls
+   30  clear
+   31  ls
+   32  cd Viber
+   33  clear
+   34  ls
+   35  ls
+   36  clear
+   37  ls
+   38  cd Documents
+   39  clear
+   40  ls
+   41  clear
+   42  ls
+   43  cd..
+   44   clear
+   45  ls
+   46  mkdir Lesson
+   47  сдуфк
+   48  сдуфк
+   49  clear
+   50  ls
+   51  ls
+   52  clear
+   53  ls
+   54  cd Documents
+   55  clear
+   56  ls
+   57  touch empty.txt
+   58  clear
+   59  bwd
+   60  clear
+   61  touch 2 empty.txt
+   62  clear
+   63  ls
+   64  clear
+   65  ls
+   66  clear
+   67  ls
+   68  clear
+   69  ls
+   70  ls
+   71  ls
+   72  cd
+   73  cd Desktop
+   74  ls
+   75  cd
+   76  clear
+   77  ls
+   78  cd Desktop
+   79  vim empty.txt
+   80  ls
+   81  cd DESKTOP
+   82  clear
+   83  ls
+   84  cd Desktop
+   85  ls
+   86  clear
+   87  ls
+   88  ping.google.com
+   89  clear
+   90  ls
+   91  ping google.com
+   92  clear
+   93  ls
+   94  date
+   95  system_profiler
+   96  systeminfo
+   97  df -h
+   98  df-h
+   99  df -h
+  100  clear
+  101  ls
+  102  clear
+  103  ls
+  104  ifconfig
+  105  ipconfig
+  106  whoami
+  107  clear
+  108  ls
+  109  touch text.txt
+  110  chmod 777 test.txt
+  111  clear
+  112  cd GIT
+  113  clear
+  114  cd GIT
+  115  pwd
+  116  cd
+  117  clear
+  118  cd GIT
+  119  cd GIT
+  120  clear
+  121  cdGIT
+  122  clear
+  123  cd GIT
+  124  cd GIT
+  125  'Elina'
+  126  Elina
+  127  New.txt
+  128  clear
+  129  cd GIT
+  130  clear
+  131  cd GIT
+  132  Elina
+  133  cd GIT
+  134  user
+  135  cd GIT
+  136  user
+  137  'user'
+  138  'Elina'
+  139  cd GIT
+  140  git checkout -b new_branch
+  141  git branch * main
+  142  nano.new.txt
+  143  nano New.txt
+  144  ls
+  145  clear
+  146  ls
+  147  cd Desktop
+  148  history-c&&rm~/.bash_history
+  149  cd Git
+  150  git config --global user.name "Elina Holovchenko"
+  151  cd Git
+  152  clkear
+  153  clear
+  154  cd Git
+  155  cd Git
+  156  cd Git
+  157  git config --global user.name "Elina"
+  158  git config --global user.email Steblyun82@gmail.com
+  159  pwd
+  160  clear
+  161  git config --global user.name "Elina Holovchenko"
+  162  git config --global user.email elinaholovchenko@gmail.com
+  163  git clone https://github.com/ElinaH702/HW_10.git
+  164  cd HW_10
+  165  git status
+  166  touch New.txt
+  167  git status
+  168  git add New.txt
+  169  git dtatus
+  170  git status
+  171  git commit -m "New file created"
+  172  git log
+  173  git branch
+  174  git checkout -b new_branch
+  175  git branch
+  176  git checkout main
+  177  git checkout new_branch
+  178  nano New.txt
+  179  git status
+  180  git commit -m "New modified"
+  181  git brabch
+  182  git checkout main
+  183  git merge new_brunch
+  184  git merge new_branch
+  185  git branch
+  186  git status
+  187  git commit
+  188  git checkout new_brunch
+  189  git merge main
+  190  git status
+  191  git commit
+  192  git checkout main
+  193  git status
+  194   git push
+  195  git push
+  196  clear
+  197  git push
+  198  elinaholovchenko@gmail.com
+  199  clear
+  200  cd Git
+  201  cd Git
+  202  clear
+  203  cd Git
+  204  cd Git
+  205  clear
+  206  cd Git
+  207  ls
+  208  cd Git
+  209  clear
+  210  git config --global user.name "Elina Holovchenko"
+  211  git config --global user.email elinaholovchenko.com
+  212  [200~ 
+  213  git clone [url]clear
+  214  clear
+  215  git config --global user.name "Elina Holovchenko"
+  216  git config --global user.email elinaholovchenko@gmail.com
+  217  git clone https://github.com/ElinaH702/HW_10.git
+  218  cd HW_10
+  219  touch text_ignore.txt
+  220  git status
+  221   
+  222  git add text_ignore.txt
+  223  -f
+  224  git add touch text_ignore.txt
+  225  git add text_ignore.txt
+  226  git add
+  227  git add .
+  228  git commit -m "Додано text_ignore.txt до .gitignore"
+  229  touch main_text.txt
+  230  git add .
+  231  git commit -m "Created new file main_text.txt"
+  232   
+  233   	
+  234  git checkout -b develop
+  235  git branch
+  236  touch develop_text.txt
+  237  git add .
+  238  git commit -m "Created a new branch 'develop_text.txt'"
+  239  git status
+  240  git add .
+  241  git status
+  242  git commit -m "Made a commit to commit changes"
+  243  git checkout main
+  244  git merge branch_develop
+  245  git branch develop
+  246  git merge develop
+  247  git log
+  248  history>command_list.csv
+  249  history > command_list.csv
